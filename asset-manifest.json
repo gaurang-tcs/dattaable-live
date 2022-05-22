@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dattaable-live/static/css/main.09f113a3.css",
+    "main.js": "/dattaable-live/static/js/main.513537d4.js",
+    "static/js/787.e5750c10.chunk.js": "/dattaable-live/static/js/787.e5750c10.chunk.js",
+    "index.html": "/dattaable-live/index.html",
+    "main.09f113a3.css.map": "/dattaable-live/static/css/main.09f113a3.css.map",
+    "main.513537d4.js.map": "/dattaable-live/static/js/main.513537d4.js.map",
+    "787.e5750c10.chunk.js.map": "/dattaable-live/static/js/787.e5750c10.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09f113a3.css",
+    "static/js/main.513537d4.js"
+  ]
+}
